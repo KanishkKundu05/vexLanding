@@ -63,7 +63,7 @@ function App() {
       {/* Hero Section - 80% of viewport */}
       <section className="hero">
         <img
-          src="/public/India_Palantir.png"
+          src="/public/India_palantir.png"
           alt="Hero background"
           className="hero-image"
         />
