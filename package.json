@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "bun --hot src/server.ts",
-    "build": "bun build src/main.ts --outdir dist --minify"
+    "build": "bun build index.html --outdir dist --minify"
   },
   "dependencies": {
     "react": "^19",
